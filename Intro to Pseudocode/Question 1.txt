@@ -1,0 +1,7 @@
+input num 1, num 2
+
+if num 1 = x and num 2 = y
+	then print("x*y, x+y, x-y, x/y")
+
+if x*y = a, x + y = b, x - y = c and x/y = d,
+	then print("a+b+c+d")

@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Enter Password
+Step 3: If password is insecure, proceed to step 4. If password is not insecure, proceed to step 5.
+Step 4: Display "Access Granted!".
+Step 5: Display "Access Denied!".
+Step 6: Stop
+

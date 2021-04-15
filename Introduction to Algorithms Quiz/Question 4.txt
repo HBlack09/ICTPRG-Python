@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare variables num1, num 2 and sum, mulitply, divide, subtract.
+Step 3: Read values for num 1, num 2.
+Step 4: Carry out the calcaultions and assign the results to w,x,y, and z.
+Step 5: Display the values of w,x,y, and z.
+Step 6: Stop
